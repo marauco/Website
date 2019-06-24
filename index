@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="This is an awesome website">
+    <title>Matthias Arauco</title>
+
+    <h4 style="color:lightgray"><a href="index.html" style="text-decoration: none;">MATTHIAS ARAUCO</a></h4>
+    <style>
+      a {color: lightgray;
+
+      }
+
+      a:hover {color: white;}
+
+    </style>
+  </head>
+
+
+  <body style="font-size:1.5em; font-family: helvetica;" leftmargin="200px" rightmargin="200px">
+
+    <a href="projects.html" style="text-decoration: none;"><b>Projects.</b></a>
+    <a href="texts.html" style="text-decoration: none;"><b>Texts.</b></a>
+    <a href="about.html" style="text-decoration: none;"><b>About.</b></a>
+    <a href="contact.html" style="text-decoration: none;;"><b>Contact.</b></a>
+    <a href="https:www.instagram.com/maarauco" target="_blank" style="text-decoration: none;;"><b>Media.</b></a>
+    
+    <style>
+      a {color: lightgray;
+
+      }
+
+      a:hover {color: white;}
+
+    </style>
+
+  </body>
+
+
+
+
+
+</html
